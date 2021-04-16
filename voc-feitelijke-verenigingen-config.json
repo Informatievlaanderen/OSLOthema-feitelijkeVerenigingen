@@ -1,1 +1,28 @@
-
+{
+  "naam": "Vocabularium Feitelijke Verenigingen",
+  "rapport" : "",
+  "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
+  "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "TBD",
+  "categorie": "Vocabularium",
+  "beschrijving" : "voc-feitelijke-verenigingen.md",
+  "specificatiedocument": [
+  ],
+  "documentatie": [],
+  "charter": [
+  ],
+  "verslagen": [
+    {
+      "naam" : "Verslag business werkgroep - 11 januari 2021",
+      "waarde" : "20210111 - OSLO Mobiliteit - Dienstregeling en Planning - Business Werkgroep - Verslag.pdf"
+    }
+  ],
+  "presentaties": [
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor informatie over feitelijke verenigingen",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "TBD",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
