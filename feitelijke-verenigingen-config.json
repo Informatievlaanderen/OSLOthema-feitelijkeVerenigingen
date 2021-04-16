@@ -1,0 +1,27 @@
+{
+  "naam": "Vocabularium en applicatieprofielen feitelijke verenigingen",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
+  "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "TBD",
+  "categorie": "Vocabularium en applicatieprofielen",
+  "beschrijving" : "feitelijke-verenigingen.md",
+  "specificatiedocument": [  ],
+  "documentatie": [],
+  "charter": [
+  ],
+  "verslagen": [
+    {
+      "naam" : "Eindrapport omgevingsanalyse - feitelijke verenigingen",
+      "waarde" : "TBD"
+    }
+  ],
+  "presentaties": [
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor informatie over besluitvorming",
+  "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "TBD",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
