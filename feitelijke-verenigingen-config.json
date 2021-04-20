@@ -8,14 +8,15 @@
   "categorie": "Vocabularium en applicatieprofielen",
   "beschrijving" : "feitelijke-verenigingen.md",
   "specificatiedocument": [  ],
-  "documentatie": [],
-  "charter": [
-  ],
-  "verslagen": [
-    {
+  "documentatie": [
+  {
       "naam" : "Eindrapport omgevingsanalyse - feitelijke verenigingen",
       "waarde" : "TBD"
     }
+  ],
+  "charter": [
+  ],
+  "verslagen": [
   ],
   "presentaties": [
   ],
