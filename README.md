@@ -1,5 +1,7 @@
 # OSLOthema-feitelijkeVerenigingen
 
+https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofielen-feitelijke-verenigingen.html
+
 | Klasse/Object | Beschrijving | 
 | ------------- | ------------- |
 | Feitelijke Vereniging | Een Feitelijke Vereniging bestaat uit twee of meerdere personen en/of organisaties, heeft geen rechtspersoonlijkheid en streeft een belangeloos doel na. |
