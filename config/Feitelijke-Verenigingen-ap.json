@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "Feitelijke-Verenigingen-ap.eap",
   "diagram": "Feitelijke-Verenigingen-ap",
-  "template": "mijn-applicatieprofiel-ap.j2",
+  "template": "Feitelijke-Verenigingen-ap.j2",
   "title": "Feitelijke Verenigingen - Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2021-06-22",
