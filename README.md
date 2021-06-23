@@ -2,7 +2,7 @@
 
 [Detailinformatie](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofielen-feitelijke-verenigingen.html)
 
-Applicatieprofiel en alle definities kan [hier](https://test.data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/ontwerpstandaard/2021-06-22) worden bekeken. 
+Het OSLO applicatieprofiel en alle bijbehorende beschrijvingen van klassen en attributen kan [hier](https://test.data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/ontwerpstandaard/2021-06-22) worden bekeken. 
 
 | Klasse/Object | Beschrijving | 
 | ------------- | ------------- |
