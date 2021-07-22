@@ -7,7 +7,12 @@
   "type_toepassing": "TBD",
   "categorie": "Vocabularium en applicatieprofielen",
   "beschrijving" : "feitelijke-verenigingen.md",
-  "specificatiedocument": [  ],
+  "specificatiedocument": [ 
+   {
+     "naam" : "Draft Specificatie - Feitelijke Verenigingen",
+     "waarde" : "https://test.data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/ontwerpstandaard/2021-06-22"
+   }
+  ],
   "documentatie": [
   {
       "naam" : "Eindrapport omgevingsanalyse - feitelijke verenigingen",
