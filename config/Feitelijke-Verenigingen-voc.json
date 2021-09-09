@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "Feitelijke-Verenigingen-ap.eap",
   "diagram": "Feitelijke-Verenigingen-ap",
-  "template": "Feitelijke-Verenigingen-ap.j2",
+  "template": "Feitelijke-Verenigingen-voc.j2",
   "title": "Feitelijke Verenigingen - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2021-06-22",
