@@ -2,7 +2,7 @@
 {
   "name": "Feitelijke-Verenigingen-voc",
   "type": "voc",
-  "eap": "Feitelijke-Verenigingen-voc.eap",
+  "eap": "Feitelijke-Verenigingen-ap.eap",
   "diagram": "Feitelijke-Verenigingen-ap",
   "template": "Feitelijke-Verenigingen-ap.j2",
   "title": "Feitelijke Verenigingen - Vocabularium",
