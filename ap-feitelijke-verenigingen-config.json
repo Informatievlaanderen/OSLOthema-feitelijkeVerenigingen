@@ -6,7 +6,7 @@
   "publicatiedatum": "2021-06-22",
   "type_toepassing": "TBD",
   "categorie": "Applicatieprofiel",
-  "beschrijving": "feitelijke-verenigingen.md",
+  "beschrijving": "ap-feitelijke-verenigingen.md",
   "specificatiedocument": [
     {
       "naam": "Kandidaat Specificatie Applicatieprofiel - Feitelijke Verenigingen",
@@ -16,7 +16,7 @@
   "documentatie": [
     {
       "naam": "Eindrapport omgevingsanalyse - feitelijke verenigingen",
-      "waarde" : "Eindrapport_omgevingsanalyse-feitelijke-verenigingen_Informatie-architectuur.pdf"
+      "waarde": "Eindrapport_omgevingsanalyse-feitelijke-verenigingen_Informatie-architectuur.pdf"
     }
   ],
   "charter": [
