@@ -1,21 +1,21 @@
 {
-  "naam": "Vocabularium en applicatieprofielen feitelijke verenigingen",
+  "naam": "Applicatieprofiel feitelijke verenigingen",
   "rapport": "",
   "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
-  "publicatiedatum": "TBD",
+  "publicatiedatum": "2021-06-22",
   "type_toepassing": "TBD",
-  "categorie": "Vocabularium en applicatieprofielen",
-  "beschrijving" : "feitelijke-verenigingen.md",
-  "specificatiedocument": [ 
-   {
-     "naam" : "Draft Specificatie - Feitelijke Verenigingen",
-     "waarde" : "https://test.data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/ontwerpstandaard/2021-06-22"
-   }
+  "categorie": "Applicatieprofiel",
+  "beschrijving": "feitelijke-verenigingen.md",
+  "specificatiedocument": [
+    {
+      "naam": "Kandidaat Specificatie Applicatieprofiel - Feitelijke Verenigingen",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/kandidaadstandaard/2021-06-22"
+    }
   ],
   "documentatie": [
-  {
-      "naam" : "Eindrapport omgevingsanalyse - feitelijke verenigingen",
+    {
+      "naam": "Eindrapport omgevingsanalyse - feitelijke verenigingen",
       "waarde" : "Eindrapport_omgevingsanalyse-feitelijke-verenigingen_Informatie-architectuur.pdf"
     }
   ],
