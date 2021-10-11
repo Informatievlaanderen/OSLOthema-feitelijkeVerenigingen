@@ -1,4 +1,5 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;FeitelijkeVerenigingen;
+Jeroen;Devlieghere;Departement Cultuur, Jeugd en Media;jeroen.devlieghere@vlaanderen.be;https://overheid.vlaanderen.be/;A;
+Nele;Haegemans;Departement Cultuur, Jeugd en Media;nele.haegemans@vlaanderen.be;https://overheid.vlaanderen.be/;A;
+Hamrouni;Michel;Departement Cultuur, Jeugd en Media;michel.hamrouni@vlaanderen.be;https://overheid.vlaanderen.be/;A;
+Yves;Meersmans;PwC;yves.meersmans@pwc.com;https://www.pwc.be;E;
