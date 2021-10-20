@@ -1,7 +1,5 @@
 # OSLOthema-feitelijkeVerenigingen
 
-[Detailinformatie](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofielen-feitelijke-verenigingen.html)
-
 Het OSLO applicatieprofiel en alle bijbehorende beschrijvingen van klassen en attributen kan [hier](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-feitelijke-verenigingen.html) worden bekeken. 
 
 | Klasse/Object | Beschrijving | 
