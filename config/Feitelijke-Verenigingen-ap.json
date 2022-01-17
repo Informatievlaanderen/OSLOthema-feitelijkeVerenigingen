@@ -2,8 +2,8 @@
 {
   "name": "Feitelijke-Verenigingen-ap",
   "type": "ap",
-  "eap": "Feitelijke-Verenigingen-ap.eap",
-  "diagram": "Feitelijke-Verenigingen-ap",
+  "eap": "alternatief-Feitelijke-Verenigingen-ap.eap",
+  "diagram": "NEW Feitelijke-Verenigingen-ap",
   "template": "Feitelijke-Verenigingen-ap.j2",
   "title": "Feitelijke Verenigingen - Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
