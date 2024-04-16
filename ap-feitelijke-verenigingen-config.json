@@ -4,12 +4,12 @@
   "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
   "publicatiedatum": "2022-02-03",
-  "type_toepassing": "TBD",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
   "beschrijving": "ap-feitelijke-verenigingen.md",
   "specificatiedocument": [
     {
-      "naam": "Kandidaat Specificatie Applicatieprofiel - Feitelijke Verenigingen",
+      "naam": "Applicatieprofiel Feitelijke Verenigingen",
       "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/"
     }
   ],
@@ -67,7 +67,7 @@
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over besluitvorming",
   "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-  "datum_van_aanmelding": "TBD",
+  "datum_van_aanmelding": "1 april 2020",
   "erkenning_werkgroep_datastandaarden": "TBD",
   "erkenning_stuurgroep": "TBD"
 }
