@@ -2,7 +2,7 @@
   "title": "Vocabularium Feitelijke Verenigingen",
   "category": "Vocabularium",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "kandidaat-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "descriptionFileName": "voc-feitelijke-verenigingen.md",
   "responsibleOrganisation": [
     {
