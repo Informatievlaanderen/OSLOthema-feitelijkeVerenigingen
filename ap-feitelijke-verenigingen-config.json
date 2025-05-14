@@ -2,7 +2,7 @@
   "title": "Applicatieprofiel Feitelijke Verenigingen",
   "category": "Applicatieprofiel",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "kandidaat-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "descriptionFileName": "ap-feitelijke-verenigingen.md",
   "responsibleOrganisation": [
     {
