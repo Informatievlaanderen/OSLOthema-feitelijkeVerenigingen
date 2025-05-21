@@ -1,7 +1,7 @@
 {
   "title": "Vocabularium Feitelijke Verenigingen",
   "category": "Vocabularium",
-  "usage": "Aanbevolen (vrijwillig)",
+  "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "descriptionFileName": "voc-feitelijke-verenigingen.md",
   "responsibleOrganisation": [
